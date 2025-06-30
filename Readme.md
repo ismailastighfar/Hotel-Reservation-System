@@ -150,7 +150,7 @@ Uses Java's LocalDate for precise date-only operations while maintaining compati
 Implements custom exceptions for specific business logic failures while maintaining clear error messages for debugging.
 
 ## Testing
-The project includes comprehensive test coverage with over 50+ test cases covering all business scenarios and edge cases.
+The project includes comprehensive test coverage, test cases covering all business scenarios and edge cases.
 
 ### Test Structure
 The test suite is organized into focused test classes:
